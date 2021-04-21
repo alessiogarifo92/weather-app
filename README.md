@@ -12,8 +12,6 @@ I've got an Api from https://openweathermap.org/api, free online source and used
 ## Background change following the meteo of the city selected 
 ![image](https://user-images.githubusercontent.com/71635987/115526571-74976000-a290-11eb-9f05-f2a29e8d3420.png)
 ![image](https://user-images.githubusercontent.com/71635987/115526925-d3f57000-a290-11eb-8313-c06eb0ae90c9.png)
-![image](https://user-images.githubusercontent.com/71635987/115527238-2e8ecc00-a291-11eb-9963-919c6bea924c.png)
-
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
